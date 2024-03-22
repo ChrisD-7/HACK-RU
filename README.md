@@ -13,3 +13,4 @@ https://bio-medical.com/media/support muse-brain-sensing-headband-user-guide.pdf
 
 
 Connected our MUSE : Found device Muse-3E67, MAC Address 00:55:DA:B3:3E:67
+

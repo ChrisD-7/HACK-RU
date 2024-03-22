@@ -1,4 +1,4 @@
-# MUSE-Ai
+# MUSE
 Hack RU - MUSE or AI
 
 This repo is to be used as a project discussion forum for building our HACK RU profile 

@@ -4,9 +4,13 @@ Hack RU - MUSE or AI
 This repo is to be used as a project discussion forum for building our HACK RU profile 
 
 currently we are using the following repos:
+
 https://github.com/alexandrebarachant/muse-lsl/
 
 https://github.com/kowalej/BlueMuse
+
+
+We will have to use https://github.com/chkothe/pylsl to stream realtime data.
 
 MUSE Manual PDF: 
 https://bio-medical.com/media/support muse-brain-sensing-headband-user-guide.pdf

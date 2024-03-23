@@ -1,4 +1,4 @@
-# MUSE or AI - HackRU Project
+# MUSE - HackRU Project
 
 Welcome to our HackRU project discussion forum. This repository is dedicated to developing an interface that leverages the MUSE EEG headband to control applications with brain activity.
 

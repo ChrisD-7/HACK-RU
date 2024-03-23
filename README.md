@@ -1,4 +1,4 @@
-# MUSE-Ai
+# MUSE
 Hack RU - MUSE or AI
 
 This repo is to be used as a project discussion forum for building our HACK RU profile 
@@ -19,7 +19,7 @@ https://bio-medical.com/media/support muse-brain-sensing-headband-user-guide.pdf
 Connected our MUSE : Found device Muse-3E67, MAC Address 00:55:DA:B3:3E:67
 
 
-Based on the (![image](Agora_Hills_Figure_1.png)) generated:
+Based on the generated:![image](Agora_Hills_Figure_1.png)
     The values on the left side of the plot represent the signal amplitudes for each EEG channel in microvolts (µV). EEG signals are typically in the range of a few microvolts to a hundred microvolts when measured from the scalp. In the plot you provided, each line corresponds to a different electrode placement on the scalp, and each electrode captures the electrical activity from different parts of the brain.
 
 Here's what each label typically stands for:

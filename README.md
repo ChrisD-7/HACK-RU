@@ -25,6 +25,8 @@ We successfully connected to the MUSE device with the following identifier:
 
 ## EEG Data Visualization
 
+![Agora Hills Figure 1](Agora_Hills_Figure_1.png)
+
 The attached figure `Agora_Hills_Figure_1.png` demonstrates a sample EEG data output with each line representing the electrical activity from different electrodes placed on the scalp. Here's a brief on the label conventions:
 
 - `TP9`, `TP10`: Represent electrode locations in the temporal regions of the brain.
